@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/Client/ClientGameplay.java=UTF-8
+encoding//src/Client/ClientLoginFrame.java=UTF-8
+encoding//src/Client/ClientSignFrame.java=UTF-8
+encoding//src/Client/ClientThread.java=UTF-8
+encoding//src/Connection/SQLHelper.java=UTF-8
+encoding//src/DataPacket/RequestEndTurn.java=UTF-8
+encoding//src/DataPacket/RequestTheFirstBeginRound.java=UTF-8
+encoding//src/DataPacket/ResponseCardOnTable.java=UTF-8
+encoding//src/DataPacket/ResponseClientTurn.java=UTF-8
+encoding//src/DataPacket/ResponseDeckShuffled.java=UTF-8
+encoding//src/DataPacket/ResponseSendMessenger.java=UTF-8
+encoding//src/DataPacket/ResponseTheFirstBeginRound.java=UTF-8
+encoding//src/FileExplore/FileExplore.java=UTF-8
+encoding//src/ModelCard/CardFactory.java=UTF-8
+encoding//src/Server/HandleThread.java=UTF-8
+encoding//src/Server/Server.java=UTF-8
