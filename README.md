@@ -5,3 +5,5 @@
 3./ KHỞI ĐỘNG SERVER DATABASE MYSQL TRƯỚC. <br/>
 4./ CHẠY FILE SERVER.JAVA. <br/>
 5./ CHẠY CLIENTLOGINFRAME.JAVA ĐỂ LOGIN
+
+Cảm ơn mọi người đã quan tâm đến project của mình.
